@@ -1,5 +1,6 @@
-#include "./shopping.h"
 #include <gtest/gtest.h>
+
+#include "./shopping.h"
 
 // TEST (testCaseName, testName){
 //   ... test body ...
